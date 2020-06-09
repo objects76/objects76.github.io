@@ -1,6 +1,6 @@
 ---
 title: "Log reformatter!"
-date: 2020-06-09
+date: 2020-06-09 08:26:28 -0400
 categories: utils
 ---
 
