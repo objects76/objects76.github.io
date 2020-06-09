@@ -12,18 +12,18 @@ categories: utils
     - 로그의 scope는 **{** 로 시작해서 **}** 로 끝납니다.
 
 [원본 이미지]
-![raw_log](./imgs/2020-06-09_134948.jpg)
+![raw_log](/assets/images/2020-06-09_134948.jpg)
 
 
 [파싱 후 이미지]
 - scope 별 실행 시간이 붙음
 -   } x264_encoder_open_116_at172, **tick=5ms**
 
-![pased_log](./imgs/jjkim-20200609-135744.jpg)
+![pased_log](/assets/images/jjkim-20200609-135744.jpg)
 
 - 로그 마지막에 각 함수별 호출 횟수및 평균 실행 시간 계산함.
 
-![aver_log](./imgs/jjkim-20200609-140803.jpg)
+![aver_log](/assets/images/jjkim-20200609-140803.jpg)
 
 
 # python v3 code
