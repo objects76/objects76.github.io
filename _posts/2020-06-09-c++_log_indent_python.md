@@ -1,7 +1,11 @@
+---
+title: "Log reformatter!"
+date: 2020-06-09
+categories: utils
+---
 
+생성된 로그를 파싱해서 각 쓰레드의 콜스택에 따라 들여쓰기 해주는 유틸 스크립트.
 
-# Log reformatter
- 생성된 로그를 파싱해서 각 쓰레드의 콜스택에 따라 들여쓰기 해주는 유틸 스크립트.
  - 로그포멧
     - D.x116      15044    10:26:45.778   { x264_param_default_at409
     - 레벨.tag    tid       time           log body.
