@@ -11,11 +11,11 @@ categories: utils
     - 레벨.tag    tid       time           log body.
     - 로그의 scope는 **{** 로 시작해서 **}** 로 끝납니다.
 
-[원본 이미지]
+[raw log]
 ![raw_log](/assets/images/2020-06-09_134948.jpg)
 
 
-[파싱 후 이미지]
+[parsed log]
 - scope 별 실행 시간이 붙음
 -   } x264_encoder_open_116_at172, **tick=5ms**
 
