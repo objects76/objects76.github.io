@@ -1,4 +1,4 @@
-```py
+
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
@@ -57,5 +57,3 @@ def decode(encoded_str):
     if v+1:
         out += struct.pack('B', (b | v << n) & 255 )
     return out.decode('ascii')
-
-```
