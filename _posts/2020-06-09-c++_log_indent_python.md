@@ -17,7 +17,7 @@ categories: utils
 
 [parsed log]
 - scope 별 실행 시간이 붙음
--   } x264_encoder_open_116_at172, **tick=5ms**
+    - } x264_encoder_open_116_at172, **tick=5ms**
 
 ![pased_log](/assets/images/jjkim-20200609-135744.jpg)
 
